@@ -6,7 +6,7 @@ Utilizando a Classe.
 ```php
       $dadosBoleto = [ 
       'pagador' => [
-            'cpf_cnpj_pagador'                  => '39164197816',
+            'cpf_cnpj_pagador'                  => '00000000000',
             'nome'                              => 'Nome Pagador',
             'logradouro_pagador'                => 'Rua do pagador, Numero',
             'cidade_pagador'                    => 'CIDADE',
